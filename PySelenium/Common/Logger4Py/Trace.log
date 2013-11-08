@@ -1,0 +1,9 @@
+Sat, 06 Jul 2013 22:09:04 Logger.py Logger __init__ INFO helloworld
+Sat, 06 Jul 2013 22:12:23 Logger.py Logger __init__ INFO helloworld
+Sat, 06 Jul 2013 22:12:23 Logger.py Logger __init__ ERROR helloError
+Sat, 06 Jul 2013 22:12:23 Logger.py Logger __init__ WARNING helloWaring
+Sat, 06 Jul 2013 22:12:23 Logger.py Logger __init__ DEBUG helloDebug
+Sat, 06 Jul 2013 22:13:46 Logger.py Logger __init__ INFO helloworld
+Sat, 06 Jul 2013 22:13:46 Logger.py Logger __init__ ERROR helloError
+Sat, 06 Jul 2013 22:13:46 Logger.py Logger __init__ WARNING helloWaring
+Sat, 06 Jul 2013 22:13:46 Logger.py Logger __init__ DEBUG helloDebug

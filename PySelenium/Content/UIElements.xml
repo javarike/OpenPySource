@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!--UI Elements infos for Login componet-->
+    <UIElementNode NodeID="WebSite.InlandHotel.HotelList.CityTextBox" ControllType="UIControll.UIWebButton.WebButton"  
+                   ID="su" Name="" XPath="" CssSelector="" InnerText="" LinkText="" TagName="" ClassName="" 
+                   PropertyName="" PropertyValue="" IFrameName="" IFrameIndex="">
+    </UIElementNode>
+</Repository>

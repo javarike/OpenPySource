@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TestCaseList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UIElementsFileName>WebSiteInlandHotelUIElements.xml</UIElementsFileName>
+  <ComponetParametersFileName>WebSiteInlandHotelComponetsParameters.xml</ComponetParametersFileName>
+    <TestCase Name="WebSiteInlandHotelHotelListPageCheck" ID="WebSite.InlandHotel.HotelListPageCheck" Enable="true" Owner="zhenyu.lv" priority="0" ExternalProcess="true">
+      <TestComponets>
+        <TestComponet ComponetPackage="Elong.GUIAutomation.WebSite" ComponetGroup="InlandHotelListPage"  ComponetName="OpenInlandHotelListPage" ComponetParameterID="OpenInlandHotelListPage" />
+        <TestComponet ComponetPackage="Elong.GUIAutomation.WebSite" ComponetGroup="InlandHotelListPage"  ComponetName="OpenHotelDetailPage" ComponetParameterID="OpenHotelDetailPage"/>
+      </TestComponets>
+    </TestCase> 
+</TestCaseList>

@@ -1,0 +1,8 @@
+Wed, 03 Jul 2013 00:46:39 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:46:46 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:46:46 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:46:48 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:46:48 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:46:48 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:46:48 Logger.py %s %s INFO helloworld
+Wed, 03 Jul 2013 00:47:42 Logger.py Logger __init__ INFO helloworld
